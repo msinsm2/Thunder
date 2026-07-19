@@ -9,9 +9,14 @@ Development workspace for the **A Thunder of Dragons** graphic-novel franchise, 
   dissected and produced as **three graphic novels**, with Book One as the standalone pitch object.
   Includes the structural map, the GN #1 pitch strategy, a rights/clearance flag list, and a cast
   reference.
-- **[`beat-sheets/`](beat-sheets/)** — page-by-page comic breakdowns.
-  - **[`gn-1-beats.md`](beat-sheets/gn-1-beats.md)** — GN #1 ("Origins" / Book One), the pitch object:
-    a ~72-page, page-by-page beat sheet with money-page flags, art notes, and pitch logic.
+- **[`beat-sheets/`](beat-sheets/)** — page-by-page comic breakdowns (money-page flags, art notes,
+  pitch logic, and marked break points).
+  - **[`gn-1-beats.md`](beat-sheets/gn-1-beats.md)** — GN #1 ("Origins" / Book One), the pitch object
+    (~72 pp).
+  - **[`gn-2-beats.md`](beat-sheets/gn-2-beats.md)** — GN #2 ("Coming of Age" / Book Two), the
+    escalation book with the apocalypse cold-open (~78 pp).
+  - **[`gn-3-beats.md`](beat-sheets/gn-3-beats.md)** — GN #3 ("The Tournament & The Choosing" /
+    Books Three + Four), the finale (~106 pp) — includes the 3-vs-4-book split analysis.
 - **[`manuscript/`](manuscript/)** — the source text.
   - **`A Thunder of Dragons -- Enter the DragonVerse -- Volume One A-1.pdf`** — Louis's original
     illustrated manuscript, 178 pages. **This is the source of record.**
@@ -22,8 +27,8 @@ Development workspace for the **A Thunder of Dragons** graphic-novel franchise, 
 
 ## Planned additions
 
-- Page-by-page beat sheets for GN #2 (Book Two) and GN #3 (Books Three + Four).
 - Story/world bible (canon, timeline, the mythology layer).
+- Incorporate Louis's notes on the three beat sheets (page targets, the 3-vs-4-book split, rights swaps).
 
 ## How to work with this folder
 
