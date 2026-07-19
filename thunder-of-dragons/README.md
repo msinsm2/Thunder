@@ -17,7 +17,9 @@ Development workspace for the **A Thunder of Dragons** graphic-novel franchise, 
     (near-verbatim working transcription; the original PDF remains the ultimate authority).
   - **[`volume-one-synopsis.md`](manuscript/volume-one-synopsis.md)** — a condensed Book-by-Book
     synopsis for quick navigation.
-  - **`volume-one-raw.txt`** — the exact text as pasted in-session, untouched (verbatim archive).
+  - **`volume-one-raw.txt`** — the exact text as pasted in-session, untouched. **Partial** (opening
+    through Remi's Willowbrook escape); the full verbatim archive is best captured from the original
+    PDF once it can be uploaded. Content in full is preserved in `volume-one-full-script.md`.
 
 ## Planned additions
 
