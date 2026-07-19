@@ -24,6 +24,9 @@ Development workspace for the **A Thunder of Dragons** graphic-novel franchise, 
     convergence (~64 pp).
   - **[`gn-4-beats.md`](beat-sheets/gn-4-beats.md)** — GN #4 ("The Choosing" / Book Four), the climax
     and launch (~48 pp).
+- **[`tools/letterer/`](tools/letterer/)** — a tool for distilling the wordy script into balloon-ready
+  lettering (captions + dialogue + image directions). Includes the method (`condensation-spec.md`), a
+  hand-run 10-page proof (`samples/`), and a CLI (`letter.py`) to run it over a whole book cheaply.
 - **[`manuscript/`](manuscript/)** — the source text.
   - **`A Thunder of Dragons -- Enter the DragonVerse -- Volume One A-1.pdf`** — Louis's original
     illustrated manuscript, 178 pages. **This is the source of record.**
