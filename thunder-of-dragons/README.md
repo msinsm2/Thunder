@@ -3,6 +3,9 @@
 Development workspace for the **A Thunder of Dragons** graphic-novel franchise, created by
 **Louis Venosta** — an original new work in the Dragonverse.
 
+> **New here? Open [`START-HERE.md`](START-HERE.md)** — a one-page overview that routes you through
+> every document in reading order.
+
 ## Contents
 
 - **[`book-by-book-breakdown.md`](book-by-book-breakdown.md)** — Story breakdown of all four internal
