@@ -4,8 +4,8 @@
 **Property:** *A Thunder of Dragons* — Volume One, "Enter the Dragonverse"
 **Created by:** Louis Venosta
 **Purpose of this document:** Dissect Volume One to determine how it is produced as a series of
-shorter, sellable books — per the franchise plan's Phase 1 ("Break Volume One into 3 graphic
-novels, with the first becoming the pitch object for everything that follows").
+shorter, sellable books. **The plan: four graphic novels — one per internal Book — with Book One as
+the standalone pitch object for everything that follows.**
 **Status:** Working draft for review. Louis is the canon and story authority; everything here is a
 proposal to react to, not a change to the text.
 
@@ -30,25 +30,23 @@ engine sitting underneath the four books.
 
 ---
 
-## 2. The chosen plan — four Books → three graphic novels
+## 2. The plan — four Books → four graphic novels
 
-**Selected approach: Recommendation A — respect the author's own breaks.**
+**One graphic novel per internal Book.** Each cut falls exactly on a line Louis already wrote, so
+canon stays intact, the edit is minimal, and every book gets its own clean arc and cliffhanger.
 
-| Graphic Novel | Contents | Working title | Role in the pitch |
-|---|---|---|---|
-| **GN #1** | Book One | *Origins* | **The pitch object.** Stands alone; sells the world. |
-| **GN #2** | Book Two | *Coming of Age* | Deepens the ensemble, plants the mythology and the crime web. |
-| **GN #3** | Books Three + Four | *The Tournament & The Choosing* | The convergence climax and the launch into the wider Dragonverse. |
+| Graphic Novel | Adapts | Working title | Role | Approx. length |
+|---|---|---|---|---|
+| **GN #1** | Book One | *Origins* | **The pitch object.** Stands alone; sells the world. | ~72 pp |
+| **GN #2** | Book Two | *Coming of Age* | Deepens the ensemble; plants the mythology and the crime web. | ~78 pp |
+| **GN #3** | Book Three | *The Tournament* | The great convergence; secrets surface; the night turns. | ~64 pp |
+| **GN #4** | Book Four | *The Choosing* | The climax and the launch into the wider Dragonverse. | ~48 pp |
 
-**Why this cut:** it slices only on lines Louis already wrote, so canon stays intact and the edit is
-minimal.
+**Why four:** the books come out evenly sized, each ends on a strong cliffhanger (the "baby dragons"
+turn; the storm unheard; **Genee slammed by a car**; the jet to China), and no single volume has to
+carry a double-length finale. Book One remains the pitch object that opens the doors for the rest.
 
-**The one trade-off to manage:** GN #3 combines two internal Books and therefore runs roughly double
-the length of #1 and #2. For a finale that is acceptable (readers forgive a long last book), but it
-matters for page budget and art cost. If we later want three near-equal books, the fallback is
-**Recommendation B**: end GN #2 mid-tournament on the "…and then there were eight" finalists
-cliffhanger, and give GN #3 the finals + all of Book Four. Recorded here as a known option; not the
-current plan.
+Page-by-page beat sheets exist for all four in [`beat-sheets/`](beat-sheets/).
 
 ---
 
@@ -130,12 +128,12 @@ determinations.** They run in parallel with the dissection; none of them block i
 
 ---
 
-## 6. Open decision & next step
+## 6. Status & next step
 
-- **Format is set:** three graphic novels (Recommendation A). Recorded fallback: Recommendation B for
-  near-equal book lengths if page budget demands it.
-- **Recommended next deliverable:** a **page-by-page beat sheet for GN #1** — the most important
-  document to put in a buyer's hands — followed by the same for #2 and #3.
+- **Format is set:** **four graphic novels**, one per Book, with Book One as the pitch object.
+- **Done:** page-by-page beat sheets for all four (see [`beat-sheets/`](beat-sheets/)).
+- **Next:** fold in Louis's notes (page targets, the re-pointed GN #1 ending, rights swaps), then
+  script GN #1 page by page for an artist.
 
 *This document is a living story/adaptation bible. Update it as Louis reacts and as the rights pass
 resolves.*

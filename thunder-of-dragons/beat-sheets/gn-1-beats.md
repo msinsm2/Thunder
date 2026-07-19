@@ -223,7 +223,7 @@ change vs. the manuscript — see breakdown §3b.)*
 - **Issue #1 = pp 1–45**, ending on the burned pigeon / **Jay + Chuy alliance forged** — a strong
   emotional + tonal cliffhanger ("these two, against all of it").
 - **Issue #2 = pp 46–72**, building to Ksenia's death and the "baby dragons" hook.
-- For the 3-graphic-novel plan (Recommendation A), ignore this — GN #1 ships as one ~72-page book.
+- For the four-graphic-novel plan (one book per Book), ignore this — GN #1 ships as one ~72-page book.
 
 ---
 
@@ -238,5 +238,5 @@ change vs. the manuscript — see breakdown §3b.)*
    (Barnes, Wilt). Do we script around them now, or beat them out as-is and swap during the clearance
    pass?
 
-*Next deliverables once this is approved: the same page-by-page for GN #2 (Book Two) and GN #3
-(Books Three + Four).*
+*Companion beat sheets: `gn-2-beats.md` (Book Two), `gn-3-beats.md` (Book Three), `gn-4-beats.md`
+(Book Four).*

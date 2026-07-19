@@ -5,7 +5,7 @@ Beats** in story order. Built from the authoritative manuscript
 ([`manuscript/volume-one-raw.txt`](manuscript/volume-one-raw.txt), extracted from Louis's 178-page
 PDF). Working reference for Louis (canon authority) and the team.
 
-> **Companion docs:** the three-graphic-novel plan is in
+> **Companion docs:** the four-graphic-novel plan (one book per Book) is in
 > [`volume-one-breakdown.md`](volume-one-breakdown.md); the page-by-page comic adaptations are in
 > [`beat-sheets/`](beat-sheets/).
 

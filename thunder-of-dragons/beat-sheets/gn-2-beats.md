@@ -96,7 +96,7 @@ just went cosmic. This is the "here's the whole franchise's endgame" sequence.)*
 
 **Sean — the fuse**
 - **p21** — HS cafeteria: Sean (18) & **Lian**; the "Goldilocks of dicks" rant. Italians: *"We know
-  where you live, Feng."* *(seeds Sean's war in GN #3.)*
+  where you live, Feng."* *(seeds Sean's war in GN #4.)*
 
 **Remi — the caged warrior (Book Two's emotional heavyweight)**
 - **pp22–23** — Spofford yard: Remi counts six years (72 months, 312 weeks…); **Warden Cochran's**
@@ -106,7 +106,7 @@ just went cosmic. This is the "here's the whole franchise's endgame" sequence.)*
   Chiricahua; Victorio's War). *"You're — her."* The Willowbrook connection lands: *"I undid your
   restraints. You spoke."* *(pitch logic: pays off GN #1's Willowbrook opening — the saga rewards
   attention.)*
-- **p26** — The guitar girl, **Laura** (15), introduced — Cochran hovering. *(plants GN #3/#4's rescue
+- **p26** — The guitar girl, **Laura** (15), introduced — Cochran hovering. *(plants GN #4's rescue
   and the arrow.)*
 
 **Nick & Carly — the long con of the heart**
@@ -130,7 +130,7 @@ just went cosmic. This is the "here's the whole franchise's endgame" sequence.)*
   taxing and torching mom-and-pop shops — *"Pay up or burn the fuck down."* Jade: *"NOBODY driving me
   outta MY home."*
 - **p37** — **T-Byrd** at a burned body (Deakins) across from Buster's; the barbershop code of silence;
-  Flick smug in the chair. *(the cop-vs-Flick thread that resolves in GN #3.)*
+  Flick smug in the chair. *(the cop-vs-Flick thread that pays off across GN #3–#4.)*
 
 **The title drop**
 - **p38** — [money page] Chuy at **Marvel**: *"we are VERY impressed. And LOVE the title. A Thunder of
@@ -203,4 +203,5 @@ wants to breathe. Book Two has the most give here; flag which threads he wants r
 4. **Rights swaps touching Book Two** — Bruce Lee as a speaking character, the Marvel scene, Tupac,
    Nicky Barnes. Script around them now, or beat them as-is and swap during clearance?
 
-*Companion docs: `gn-1-beats.md`, `gn-3-beats.md`, and `../volume-one-breakdown.md`.*
+*Companion beat sheets: `gn-1-beats.md` (Book One), `gn-3-beats.md` (Book Three), `gn-4-beats.md`
+(Book Four). Plan: `../volume-one-breakdown.md`.*
