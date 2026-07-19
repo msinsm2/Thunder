@@ -5,6 +5,8 @@ Development workspace for the **A Thunder of Dragons** graphic-novel franchise, 
 
 ## Contents
 
+- **[`book-by-book-breakdown.md`](book-by-book-breakdown.md)** — Story breakdown of all four internal
+  Books: a summary plus the major beats, in order, for Book One through Book Four.
 - **[`volume-one-breakdown.md`](volume-one-breakdown.md)** — Adaptation breakdown: how Volume One is
   dissected and produced as **three graphic novels**, with Book One as the standalone pitch object.
   Includes the structural map, the GN #1 pitch strategy, a rights/clearance flag list, and a cast
