@@ -1,10 +1,10 @@
 # A Thunder of Dragons — Volume One: Synopsis / Navigation Aid
 
 > **This is a synopsis, not the manuscript.** It condenses each Book for quick reference and
-> adaptation planning. The full, authoritative text is in
-> [`volume-one-full-script.md`](volume-one-full-script.md) (verbatim), and the original PDF remains
-> the ultimate source of record. Use this file to navigate; use the full script to work from.
-> The four internal Book divisions are the author's own.
+> adaptation planning. The complete script text is in [`volume-one-raw.txt`](volume-one-raw.txt)
+> (extracted from the PDF's text layer), and the original 178-page illustrated PDF at the repo root
+> is the ultimate source of record. Use this file to navigate; use the raw text (or the PDF) to work
+> from. The four internal Book divisions are the author's own.
 
 ---
 

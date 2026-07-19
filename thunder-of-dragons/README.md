@@ -13,13 +13,12 @@ Development workspace for the **A Thunder of Dragons** graphic-novel franchise, 
   - **[`gn-1-beats.md`](beat-sheets/gn-1-beats.md)** — GN #1 ("Origins" / Book One), the pitch object:
     a ~72-page, page-by-page beat sheet with money-page flags, art notes, and pitch logic.
 - **[`manuscript/`](manuscript/)** — the source text.
-  - **[`volume-one-full-script.md`](manuscript/volume-one-full-script.md)** — the full manuscript
-    (near-verbatim working transcription; the original PDF remains the ultimate authority).
+  - **`A Thunder of Dragons -- Enter the DragonVerse -- Volume One A-1.pdf`** (currently at the repo
+    root) — Louis's original illustrated manuscript, 178 pages. **This is the source of record.**
+  - **`volume-one-raw.txt`** — the complete script text, extracted directly from that PDF's text
+    layer (a searchable, workable companion; the PDF stays authoritative).
   - **[`volume-one-synopsis.md`](manuscript/volume-one-synopsis.md)** — a condensed Book-by-Book
     synopsis for quick navigation.
-  - **`volume-one-raw.txt`** — the exact text as pasted in-session, untouched. **Partial** (opening
-    through Remi's Willowbrook escape); the full verbatim archive is best captured from the original
-    PDF once it can be uploaded. Content in full is preserved in `volume-one-full-script.md`.
 
 ## Planned additions
 
