@@ -9,12 +9,16 @@ Development workspace for the **A Thunder of Dragons** graphic-novel franchise, 
   dissected and produced as **three graphic novels**, with Book One as the standalone pitch object.
   Includes the structural map, the GN #1 pitch strategy, a rights/clearance flag list, and a cast
   reference.
+- **[`manuscript/`](manuscript/)** — the source text.
+  - **[`volume-one-full-script.md`](manuscript/volume-one-full-script.md)** — the full manuscript
+    (near-verbatim working transcription; the original PDF remains the ultimate authority).
+  - **[`volume-one-synopsis.md`](manuscript/volume-one-synopsis.md)** — a condensed Book-by-Book
+    synopsis for quick navigation.
 
 ## Planned additions
 
 - Page-by-page beat sheet for GN #1 (the pitch object), then #2 and #3.
 - Story/world bible (canon, timeline, the mythology layer).
-- Manuscript source of record (once we decide what lives here).
 
 ## How to work with this folder
 
