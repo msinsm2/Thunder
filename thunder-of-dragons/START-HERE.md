@@ -34,7 +34,10 @@ object** that sells the whole franchise.
    - [`gn-2-beats.md`](beat-sheets/gn-2-beats.md) — GN #2, *Coming of Age* (Book Two)
    - [`gn-3-beats.md`](beat-sheets/gn-3-beats.md) — GN #3, *The Tournament* (Book Three)
    - [`gn-4-beats.md`](beat-sheets/gn-4-beats.md) — GN #4, *The Choosing* (Book Four)
-4. **[`manuscript/`](manuscript/)** — *The source.* Louis's original 178-page illustrated PDF (the
+4. **[`tools/letterer/`](tools/letterer/)** — *The production tool.* Distills the wordy script into
+   balloon-ready lettering. Start with `samples/book-one-pages-01-10.md` to see real output; the method
+   is in `condensation-spec.md` and the CLI is `letter.py`.
+5. **[`manuscript/`](manuscript/)** — *The source.* Louis's original 178-page illustrated PDF (the
    source of record), plus its extracted script text and a short synopsis.
 
 ## For Louis to weigh in on
