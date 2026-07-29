@@ -144,8 +144,7 @@ in-world show. The scene's function (two kids electrified by a TV hero) survives
   - ATTENDANT (O.P.): "Don't let her *out!*"
 - **P4** — IMAGE: She crashes through a window into the snow, over the wall, gone — the janitor watching
   from a lit doorway.
-  - CAP: *We wouldn't know her for six more years. Her name was Remi.* *(added forward hook — optional;
-    flagged for Louis)*
+  - CAP: *We wouldn't know her for six more years. Her name was Remi.*
 
 ---
 
@@ -182,5 +181,5 @@ first swap. Nothing else in pages 1–10 trips a flag.
 - Trimmed gangster back-and-forth to its sharpest lines; kept the "that sound like a question?" beat
   for menace.
 - Kept adult-Jay's yin/yang narration as three short captions across page 2 instead of one dense block.
-- Added one forward-looking caption on page 10 ("Her name was Remi") to hook the parallel origin — cut
-  it if you'd rather keep her a mystery longer.
+- **Kept** (approved): the forward-looking caption on page 10 ("…Her name was Remi") that hooks the
+  parallel origin early — now a committed part of this sequence.
